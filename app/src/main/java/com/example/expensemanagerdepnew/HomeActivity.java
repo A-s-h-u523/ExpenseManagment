@@ -1,4 +1,4 @@
-package com.example.expensemanagerdep;
+package com.example.expensemanagerdepnew;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -22,7 +22,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 
-import static com.example.expensemanagerdep.R.string.navigation_drawer_open;
+import static com.example.expensemanagerdepnew.R.string.navigation_drawer_open;
 
 public class HomeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 

@@ -1,4 +1,4 @@
-package com.example.expensemanagerdep;
+package com.example.expensemanagerdepnew;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.expensemanagerdep;
+package com.example.expensemanagerdepnew;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
@@ -21,7 +21,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.expensemanagerdep.Model.Data;
+import com.example.expensemanagerdepnew.Model.Data;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.firebase.auth.FirebaseAuth;

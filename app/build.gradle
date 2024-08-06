@@ -1,12 +1,13 @@
 plugins {
     id 'com.android.application'
+    id 'com.google.gms.google-services'
 }
 
 android {
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "com.example.expensemanagerdep"
+        applicationId "com.example.expensemanagerdepnew"
         minSdkVersion 28
         targetSdkVersion 34
         versionCode 1
@@ -26,7 +27,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'com.example.expensemanagerdep'
+    namespace 'com.example.expensemanagerdepnew'
 }
 
 dependencies {
@@ -57,4 +58,3 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
-apply plugin: 'com.google.gms.google-services'

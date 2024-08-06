@@ -1,4 +1,4 @@
-package com.example.expensemanagerdep.Model;
+package com.example.expensemanagerdepnew.Model;
 
 public class Data {
     private int amount;

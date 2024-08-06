@@ -1,4 +1,4 @@
-package com.example.expensemanagerdep;
+package com.example.expensemanagerdepnew;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
